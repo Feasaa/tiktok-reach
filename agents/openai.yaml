@@ -1,0 +1,6 @@
+interface:
+  display_name: "TikTok Reach"
+  short_description: "Parse and summarize Douyin video links"
+  default_prompt: "Use $tiktok-reach to parse a Douyin share link and summarize the video content."
+policy:
+  allow_implicit_invocation: true
